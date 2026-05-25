@@ -1,1 +1,1 @@
-My Semester projects
+Projects
